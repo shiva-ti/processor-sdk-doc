@@ -1,3 +1,5 @@
+.. _SAUL-Crypto-Accelerator:
+
 ######
 Crypto
 ######
